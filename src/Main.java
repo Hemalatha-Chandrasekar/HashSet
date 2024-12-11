@@ -4,5 +4,7 @@ public class Main {
         exampleOne.HashListDemo();
         exampleTwo exampleTwo = new exampleTwo();
         exampleTwo.hastSetDemo2();
+        examplethree examplethree = new examplethree();
+        examplethree.hashListdemo3();
     }
 }
