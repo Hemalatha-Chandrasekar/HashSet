@@ -6,5 +6,15 @@ public class Main {
         exampleTwo.hastSetDemo2();
         examplethree examplethree = new examplethree();
         examplethree.hashListdemo3();
+        examplefour four = new examplefour();
+        four.HashListDemo4();
+        TreeSetExamples treeSetExamples = new TreeSetExamples();
+        treeSetExamples.TreeSetExamplesOneAdd();
+        treeSetExamples.TreeSetExamplesTwoRemove();
+        treeSetExamples.Navigation();
+        treeSetExamples.TreeSetExampleCom();
+
+
+
     }
 }
